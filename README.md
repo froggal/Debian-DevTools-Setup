@@ -1,6 +1,6 @@
 # Debian DevTools Setup
 
-- 데비안 계열에서 필요한 모든 개발 도구를 다운로드합니다.
+- 데비안 계열의 OS(ex. Ubuntu)에서 필요한 모든 개발 도구를 다운로드합니다.
 - 쉘 스크립트로 작동합니다.
 - PR 환영합니다.
 
@@ -21,5 +21,16 @@
 - yarn
 
 ## 개발 & 테스트 환경
-- 개발: macOS 12, Visual Studio Code, SSH(Ubuntu 22.04)
-- 테스트: Ubuntu 22.04 zsh
+### 개발
+- Apple MacBook Pro 13-inch, (2020, Intel Core i7 10th Gen, 16GB RAM, 500GB SSD)
+- Apple macOS 12 Monterey
+- Visual Studio Code (SSH - Ubuntu 22.04 LTS
+- zsh
+### 테스트
+- Samsung Notebook (2020, Intel Core i5 10th Gen, 8GB RAM, 500GB SSD)
+- Ubuntu (Desktop) 22.04 LTS
+- zsh (Oh My Zsh)
+
+## 크레딧
+- Developed by froggal (KeySpace).
+- 각 프로그램의 개발사들.
