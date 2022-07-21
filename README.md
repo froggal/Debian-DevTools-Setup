@@ -11,7 +11,6 @@
 ## 설치되는 것들
 - Visual Studio Code
 - Google Chrome or NAVER Whale or Opera.
-- w3m
 - OpenSSH-Server
 - Git
 - Pip3
