@@ -16,7 +16,7 @@
 - Pip3
 - Node.js
 - npm
-- npx
+- npx111
 - yarn
 
 ## 개발 & 테스트 환경
